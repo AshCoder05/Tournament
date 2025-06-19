@@ -1,4 +1,4 @@
-# 🥊 Interdimensional Combat Simulator — 3D vs 4D 🧠
+# 🥊 Strategy Combat Simulator 🧠
 
 Welcome to the combat sandbox where game theory meets physics and dimensional madness.  
 Build your own fighter. Test them in a round-robin tournament.  
