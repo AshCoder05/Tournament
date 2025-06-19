@@ -34,24 +34,20 @@ The core loop:
 
 ### 🔹 Run a Single Match
 
-```bash
-python simulate_match.py strategies/aggressor.py strategies/dancer.py```
+```bash python simulate_match.py strategies/aggressor.py strategies/dancer.py```
 
 ### 🔹 Run a Full Tournament
 
-```bash
-python main.py```
+```bash python main.py```
 
 ### 🔹  Validate All Strategies
 
-```bash
-python validate_strategies.py```
-
+```bash python validate_strategies.py```
 
 ### 🔹Show Leaderboard
 
-```bash
-from fight_engine import print_leaderboard
-print_leaderboard("fight_log.csv")```
+```bash 
+   from fight_engine import print_leaderboard 
+   print_leaderboard("fight_log.csv")```
 
 
